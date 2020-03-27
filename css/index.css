@@ -1,0 +1,37 @@
+body{
+    margin: 0;
+    font-family: calibri;
+    /*background-color: lightgreen;*/
+    
+}
+.head{
+    padding-left:20px;
+    font-weight: bold;
+    font-size: 60px;
+    font-family: 'Tahoma Bold', Times, serif;
+    font-variant: small-caps;
+}
+
+.logo{
+    /*border-radius: 51vh;*/
+    width:30%;
+    height: 20%;
+    margin: 20px;
+}
+.navi{
+    position: sticky !important;
+    background-color: lightgreen !important ;
+     line-height: 50px;
+    padding: 0;
+    margin: 5px;
+}
+.info{
+    margin-left: 50%;
+}
+.links{
+    color: white !important;
+    font-weight: bold;
+}
+li a:hover{
+    background-color: rgb(100, 248, 162);
+}
